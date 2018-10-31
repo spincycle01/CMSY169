@@ -8,6 +8,8 @@ import android.os.Bundle
 //no changes have been made to the Kotlin file
 class MainActivity : Activity() {
 
+//    no additional code needed. The app is running
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
