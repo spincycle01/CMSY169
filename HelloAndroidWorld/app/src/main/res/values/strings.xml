@@ -1,0 +1,9 @@
+<!--This page will centralize all of the strings used in the app, so that
+they can be easily localized during the app development-->
+
+<resources>
+    <string name="app_name">Hello Android World</string>
+    <string name="hello">Hello</string>
+    <string name="masterplan">masterplan</string>
+    <string name="i_do_nothing_try_button">I do nothing. Try</string>
+</resources>
