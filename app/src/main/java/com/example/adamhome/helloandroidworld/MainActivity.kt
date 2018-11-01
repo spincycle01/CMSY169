@@ -10,6 +10,8 @@ class MainActivity : Activity() {
 
 //    no additional code needed. The app is running
 // comment 2
+
+//    comment 3
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
